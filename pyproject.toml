@@ -11,7 +11,7 @@ dependencies = [
 [project.scripts]
 # Installable CLI named `uv` that invokes todo_mcp.main.
 # You can then run: uv run todo_mcp.py
-uv = "todo_mcp:main"
+todo_mcp = "todo_mcp:main"
 
 [build-system]
 requires = ["setuptools>=61.0", "wheel"]
