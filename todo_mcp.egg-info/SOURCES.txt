@@ -1,0 +1,8 @@
+pyproject.toml
+fastmcpEnv/bin/activate_this.py
+todo_mcp.egg-info/PKG-INFO
+todo_mcp.egg-info/SOURCES.txt
+todo_mcp.egg-info/dependency_links.txt
+todo_mcp.egg-info/entry_points.txt
+todo_mcp.egg-info/requires.txt
+todo_mcp.egg-info/top_level.txt

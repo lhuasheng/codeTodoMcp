@@ -1,0 +1,7 @@
+Metadata-Version: 2.4
+Name: todo_mcp
+Version: 0.1.0
+Summary: Tiny project to run the TodoServer MCP module via a small 'uv' CLI entrypoint.
+Requires-Python: >=3.11
+Description-Content-Type: text/markdown
+Requires-Dist: fastmcp>=0.1
